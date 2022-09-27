@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/assessment-module-2-solana/static/css/main.0c40b054.css",
+    "main.js": "/assessment-module-2-solana/static/js/main.55efe7dc.js",
+    "static/js/787.12f4e841.chunk.js": "/assessment-module-2-solana/static/js/787.12f4e841.chunk.js",
+    "static/media/404.jpg": "/assessment-module-2-solana/static/media/404.6fa35088bd569d4c3d4c.jpg",
+    "index.html": "/assessment-module-2-solana/index.html",
+    "main.0c40b054.css.map": "/assessment-module-2-solana/static/css/main.0c40b054.css.map",
+    "main.55efe7dc.js.map": "/assessment-module-2-solana/static/js/main.55efe7dc.js.map",
+    "787.12f4e841.chunk.js.map": "/assessment-module-2-solana/static/js/787.12f4e841.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c40b054.css",
+    "static/js/main.55efe7dc.js"
+  ]
+}
